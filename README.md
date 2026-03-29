@@ -18,15 +18,3 @@ Building projects and my GitHub portfolio.
 ## 📜 Certificates
 
 ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-blue?style=for-the-badge&logo=microsoft&logoColor=white) — Microsoft, 2024
-
----
-
-## 📊 GitHub Stats
-
-![Fatema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatema-madan&show_icons=true&theme=radical)
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fatema-madan&theme=react-dark)
