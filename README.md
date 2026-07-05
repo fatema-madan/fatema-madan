@@ -27,7 +27,6 @@ I am learning Python, Power BI, Tableau, and digital marketing, and building pro
 - Digital Marketing Analytics  
 
 ## 📜 Certifications  
-- Future Leaders Development Program — University of Bahrain (2026)  
 - PL-300: Microsoft Power BI Data Analyst — Microsoft (2024)  
 
 
